@@ -10,3 +10,7 @@ json2.csv.ls will convert json to csv
 # TODO
 
 1. deal limitation in main.ls
+
+# LICENSE
+
+MIT
